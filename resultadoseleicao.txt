@@ -1,0 +1,8 @@
+Presidente
+Magalhaes Número de votos:19 Porcentagem:52.7%
+Pardo Número de votos:15 Porcentagem:41.6%
+Branco Número de votos:2 Porcentagem:5.55%
+Governador
+Adelia Número de votos:16 Porcentagem:44.4%
+Polar Número de votos:16 Porcentagem:44.4%
+Branco Número de votos:4 Porcentagem:11.1%

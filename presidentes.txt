@@ -1,0 +1,2 @@
+35;Nome: Magalhaes;Partido: PP;Vice-presidente: Azul;Pinguim.gif;azul.gif
+83;Nome: Pardo;Partido: PU;Vice-presidente: Panda;pardo.gif;panda.gif

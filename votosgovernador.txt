@@ -1,0 +1,3 @@
+35;Adelia Número de votos;16
+83;Polar Número de votos;16
+branco;Branco Número de votos;4

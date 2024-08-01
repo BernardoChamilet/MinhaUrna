@@ -1,0 +1,2 @@
+35;Nome: Adelia;Partido: PP;Vice-governador: Barbicha;adelia.gif;barbicha.gif
+83;Nome: Polar;Partido: PU;Vice-governador: Bebe;urso_polar.gif;bebe.gif
